@@ -1,0 +1,28 @@
+@font-face {
+    font-family: DolphinMenu;
+    src: url(fonts/DolphinMenu_gdi.eot);
+    src: local('â˜º'), url(fonts/DolphinMenu_gdi.eot?#iefix) format('embedded-opentype'), url(fonts/BaomoMenu_gdi.woff) format('woff'), url(fonts/BaomoMenu_gdi.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal
+}
+@font-face {
+    font-family: Dolphin;
+    src: url(fonts/Dolphin_gdi.eot?v=1);
+    src: local('â˜º'), url(fonts/Dolphin_gdi.eot?#iefixv=1) format('embedded-opentype'), url(fonts/Dolphin_gdi.woff?v=1) format('woff'), url(fonts/Dolphin_gdi.ttf?v=1) format('truetype');
+    font-weight: 400;
+    font-style: normal
+}
+@font-face {
+    font-family: Dolphin;
+    src: url(fonts/Dolphin-Italic_gdi.eot?v=1);
+    src: local('â˜º'), url(fonts/Dolphin-Italic_gdi.eot?#iefixv=1) format('embedded-opentype'), url(fonts/Dolphin-Italic_gdi.woff?v=1) format('woff'), url(fonts/Dolphin-Italic_gdi.ttf?v=1) format('truetype');
+    font-weight: 400;
+    font-style: italic
+}
+@font-face {
+    font-family: Dolphin;
+    src: url(fonts/Dolphin-SemiBold_gdi.eot?v=1);
+    src: local('â˜º'), url(fonts/Dolphin-SemiBold_gdi.eot?#iefixv=1) format('embedded-opentype'), url(fonts/Dolphin-SemiBold_gdi.woff?v=1) format('woff'), url(fonts/Dolphin-SemiBold_gdi.ttf?v=1) format('truetype');
+    font-weight: 700;
+    font-style: normal
+}

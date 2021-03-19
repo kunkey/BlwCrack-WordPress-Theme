@@ -1,0 +1,1515 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-09 10:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:12
+msgid "没有找到当前页面"
+msgstr ""
+
+#: comments.php:5 includes/mobile.php:71
+#: includes/widgets/widget-recent-comments.php:14
+#: includes/widgets/widget-recent-comments.php:18
+msgid "评论"
+msgstr ""
+
+#: comments.php:8
+#, php-format
+msgid "%s条评论"
+msgstr ""
+
+#: footer.php:19 mpanel/mpanel-ui.php:593
+msgid "返回顶部"
+msgstr ""
+
+#: header.php:27
+msgid "后退"
+msgstr ""
+
+#: header.php:30
+msgid "前进"
+msgstr ""
+
+#: header.php:33 includes/related-posts.php:29
+msgid "刷新"
+msgstr ""
+
+#: page.php:18 single.php:18 includes/comment.php:17
+msgid "编辑"
+msgstr ""
+
+#: page.php:24 single.php:28
+msgid "页码："
+msgstr ""
+
+#: search.php:9 searchform.php:3 searchform.php:3
+#: functions/theme-functions.php:165 includes/mobile.php:50
+#: mpanel/mpanel-ui.php:398
+msgid "搜索"
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid "关键词“%s”共有 %s 个搜索结果"
+msgstr ""
+
+#: search.php:15
+msgid "无关键词的搜索"
+msgstr ""
+
+#: searchform.php:2
+msgid "输入关键词搜索..."
+msgstr ""
+
+#: sidebar.php:9
+msgid "该边栏还没有设置任何小工具"
+msgstr ""
+
+#: functions/class-anti-spam.php:141
+msgid "检测为机器人评论，请在网站评论表单处提交您的评论"
+msgstr ""
+
+#: functions/class-breadcrumbs.php:154 functions/deprecated.php:119
+#: functions/nav-menu.php:42 includes/mobile.php:38 mpanel/mpanel-ui.php:704
+msgid "首页"
+msgstr ""
+
+#: functions/class-breadcrumbs.php:165
+msgid "未找到页面"
+msgstr ""
+
+#: functions/class-breadcrumbs.php:175
+msgid "搜索结果"
+msgstr ""
+
+#: functions/class-breadcrumbs.php:306
+#, php-format
+msgid "第 %s 页"
+msgstr ""
+
+#: functions/class-breadcrumbs.php:340
+msgid "正文"
+msgstr ""
+
+#: functions/class-mpanel-donate.php:39
+msgid "捐助作者"
+msgstr ""
+
+#: functions/class-mpanel-donate.php:53
+msgid "自愿捐助，十分感谢！"
+msgstr ""
+
+#: functions/class-mpanel-donate.php:106
+#, php-format
+msgid "账号：<code>%s</code>"
+msgstr ""
+
+#: functions/class-mpanel-donate.php:111
+msgid "使用手机客户端扫描二维码直达捐助页面："
+msgstr ""
+
+#: functions/class-mpanel-donate.php:178
+msgid "支付宝"
+msgstr ""
+
+#: functions/class-mpanel-donate.php:179
+msgid "QQ 钱包"
+msgstr ""
+
+#: functions/class-mpanel-panel.php:163
+msgid "上传"
+msgstr ""
+
+#: functions/class-mpanel-panel.php:253
+msgid "添加"
+msgstr ""
+
+#: functions/class-mpanel-uninstall.php:35
+msgid "您没有卸载主题的权限。"
+msgstr ""
+
+#: functions/class-mpanel-uninstall.php:44
+msgid "切换到的目标主题无效，请重新选择。"
+msgstr ""
+
+#: functions/class-mpanel-uninstall.php:50
+msgid "目标主题和当前主题有重合，请重写选择。"
+msgstr ""
+
+#: functions/class-mpanel-uninstall.php:64
+msgid "卸载主题"
+msgstr ""
+
+#: functions/class-mpanel-uninstall.php:67
+msgid ""
+"主题在运行过程中会在数据库中保存一些数据，比如主题设置、数据库版本号和授权许可证之类的信息，如果直接删除主题文件会导致这些数据永远占用数据库空间。"
+msgstr ""
+
+#: functions/class-mpanel-uninstall.php:70
+msgid ""
+"你可以选择使用下边的按钮来彻底卸载主题，程序会自动清除主题在数据库中保存的所有数据，然后帮助你切换到别的主题，你可以继续保留主题或删除主题文件。"
+msgstr ""
+
+#: functions/class-mpanel-uninstall.php:73
+msgid "要注意的是，只要主题被运行一次，所有的数据就会重新生成，所以请避免这种情况或重新卸载。"
+msgstr ""
+
+#: functions/class-mpanel-uninstall.php:76
+#: functions/class-mpanel-uninstall.php:94 functions/class-mpanel.php:192
+#: functions/class-mpanel.php:242
+msgid "卸载"
+msgstr ""
+
+#: functions/class-mpanel-uninstall.php:91
+#, php-format
+msgid "删除所有主题数据并切换到 %s 主题。"
+msgstr ""
+
+#: functions/class-mpanel-uninstall.php:102
+msgid "数据不可恢复，真的要卸载吗？"
+msgstr ""
+
+#: functions/class-mpanel-uninstall.php:107
+msgid "没有可以切换到的主题，所以无法卸载。"
+msgstr ""
+
+#: functions/class-mpanel.php:153 functions/class-mpanel.php:164
+#, php-format
+msgid "%s 设置"
+msgstr ""
+
+#: functions/class-mpanel.php:165 functions/class-mpanel.php:224
+msgid "设置"
+msgstr ""
+
+#: functions/class-mpanel.php:173
+#, php-format
+msgid "%s 使用帮助"
+msgstr ""
+
+#: functions/class-mpanel.php:174 functions/class-mpanel.php:229
+msgid "帮助"
+msgstr ""
+
+#: functions/class-mpanel.php:182
+#, php-format
+msgid "%s 更新日志"
+msgstr ""
+
+#: functions/class-mpanel.php:183 functions/class-mpanel.php:236
+msgid "更新"
+msgstr ""
+
+#: functions/class-mpanel.php:191
+#, php-format
+msgid "卸载 %s 主题"
+msgstr ""
+
+#: functions/class-mpanel.php:200
+#, php-format
+msgid "捐助 %s 作者"
+msgstr ""
+
+#: functions/class-mpanel.php:201 functions/class-mpanel.php:251
+msgid "捐助"
+msgstr ""
+
+#: functions/class-mpanel.php:308
+msgid "列表不能重复"
+msgstr ""
+
+#: functions/class-mpanel.php:380 functions/class-mpanel.php:382
+msgid "保存设置"
+msgstr ""
+
+#: functions/class-mpanel.php:385 functions/class-mpanel.php:385
+msgid "恢复初始设置"
+msgstr ""
+
+#: functions/class-mpanel.php:385
+msgid "所有目前的设置都会被恢复到初始状态，无法恢复。你确定？"
+msgstr ""
+
+#: functions/class-mpanel.php:404
+msgid "使用帮助"
+msgstr ""
+
+#: functions/class-mpanel.php:451
+#, php-format
+msgid "欢迎使用 %s 主题，你可以%s联系作者，也可以%s加入我们的 QQ 群；主题支持在线升级，不建议直接修改主题的代码。"
+msgstr ""
+
+#: functions/class-mpanel.php:453 functions/class-mpanel.php:454
+msgid "点击此处"
+msgstr ""
+
+#: functions/class-mpanel.php:530
+#, php-format
+msgid "欢迎使用 %s 主题！"
+msgstr ""
+
+#: functions/class-mpanel.php:531
+msgid "可以在这里设置这个主题，强烈建议您根据喜好自定义主题。"
+msgstr ""
+
+#: functions/class-mpanel.php:577
+msgid "更新日志"
+msgstr ""
+
+#: functions/class-theme-update.php:108
+#, php-format
+msgid "%1$s 主题 %2$s 版本可用！"
+msgstr ""
+
+#: functions/class-theme-update.php:114
+#, php-format
+msgid "<a href=\"%1$s\" target=\"_blank\">%2$s 主题 %3$s 版本</a>可用！"
+msgstr ""
+
+#: functions/class-theme-update.php:122
+#, php-format
+msgid "<a href=\"%1$s\">现在去升级</a>。"
+msgstr ""
+
+#: functions/comment.php:18
+msgid "检测为非法提交的评论"
+msgstr ""
+
+#: functions/comment.php:30
+msgid "抱歉，该文章无法评论"
+msgstr ""
+
+#: functions/comment.php:39
+msgid "抱歉，输入密码之后才能评论"
+msgstr ""
+
+#: functions/comment.php:79
+msgid "您必须登录才能发表评论"
+msgstr ""
+
+#: functions/comment.php:82
+msgid "请填写正确的昵称和邮箱"
+msgstr ""
+
+#: functions/comment.php:83
+msgid "请使用一个有效的邮箱"
+msgstr ""
+
+#: functions/comment.php:86
+msgid "评论不能为空"
+msgstr ""
+
+#: functions/comment.php:92
+msgid "无法保存评论，请稍后再试"
+msgstr ""
+
+#: functions/comment.php:130
+msgid "您评论的速度太快了，休息一下吧"
+msgstr ""
+
+#: functions/comment.php:137
+msgid "您好像已经发表过这篇评论了"
+msgstr ""
+
+#: functions/comment.php:171
+msgid "请在评论里包含中文"
+msgstr ""
+
+#: functions/comment.php:184
+msgid "请使用有 Gravatar 头像的邮箱评论"
+msgstr ""
+
+#: functions/comment.php:195
+#, php-format
+msgid "你在%s的评论有回复啦！"
+msgstr ""
+
+#: functions/comment.php:195 functions/comment.php:231
+#, php-format
+msgid "《%s》"
+msgstr ""
+
+#: functions/comment.php:230
+#, php-format
+msgid "您在%s的评论有回复啦！"
+msgstr ""
+
+#: functions/comment.php:231
+#, php-format
+msgid "%s，您曾在%s中发表评论："
+msgstr ""
+
+#: functions/comment.php:233
+#, php-format
+msgid "“%s”给您的回复如下："
+msgstr ""
+
+#: functions/comment.php:235
+#, php-format
+msgctxt "第一个“%s”为“点击查看完整的回复内容”的链接"
+msgid "您可以%s，欢迎再次光临%s！"
+msgstr ""
+
+#: functions/comment.php:235 functions/comment.php:235
+msgid "点击查看完整的回复内容"
+msgstr ""
+
+#: functions/comment.php:236
+#, php-format
+msgid "%s - 邮件自动生成，请勿直接回复！"
+msgstr ""
+
+#: functions/nav-menu.php:9
+msgid "导航菜单"
+msgstr ""
+
+#: functions/nav-menu.php:10 mpanel/mpanel-ui.php:555
+msgid "页脚菜单"
+msgstr ""
+
+#: functions/nav-menu.php:47
+msgid "⊕添加菜单"
+msgstr ""
+
+#: functions/page-navi.php:15
+msgid "&laquo; 首页"
+msgstr ""
+
+#: functions/page-navi.php:16
+msgid "尾页 &raquo;"
+msgstr ""
+
+#: functions/page-navi.php:17
+msgid "&raquo;"
+msgstr ""
+
+#: functions/theme-functions.php:17
+msgid "请务必在 `after_setup_theme` 动作钩子运行之后再调用此函数。"
+msgstr ""
+
+#: functions/theme-functions.php:103
+msgid "警告："
+msgstr ""
+
+#: functions/theme-functions.php:105
+#, php-format
+msgid ""
+"%s 主题能完美运行至少需要 WordPress %s 版本，您当前的 WordPress "
+"版本（%s）可能会使主题部分功能出现问题；为了安全性和兼容性考虑，请尽快升级 WordPress 到最新版本，或者至少升级到能使主题完美运行的最低版本。"
+msgstr ""
+
+#: functions/theme-functions.php:219
+msgid "正在提交..."
+msgstr ""
+
+#: functions/theme-functions.php:288 includes/archive-header.php:24
+#: includes/mobile.php:152
+msgid "Y年m月d日"
+msgstr ""
+
+#: functions/theme-functions.php:290 includes/archive-header.php:25
+#: includes/mobile.php:154
+msgid "Y年m月"
+msgstr ""
+
+#: functions/theme-functions.php:292 includes/archive-header.php:26
+#: includes/mobile.php:156
+msgid "Y年"
+msgstr ""
+
+#: functions/theme-functions.php:295 includes/archive-header.php:28
+#, php-format
+msgid "%s发布的文章"
+msgstr ""
+
+#: functions/theme-functions.php:443
+msgid "Gravatar 头像"
+msgstr ""
+
+#: functions/widgets.php:9 mpanel/mpanel-ui.php:700
+msgid "默认侧边栏"
+msgstr ""
+
+#: functions/widgets.php:11
+msgid "没有单独指定的页面使用此侧边栏"
+msgstr ""
+
+#: includes/archive-header.php:53
+msgid "无描述"
+msgstr ""
+
+#: includes/archive-header.php:54
+msgid "此存档的 Feed 源，可以使用 RSS 阅读器订阅这些内容"
+msgstr ""
+
+#: includes/comment.php:22
+msgid "回复"
+msgstr ""
+
+#: includes/comment.php:29
+msgid "评论正在审核中..."
+msgstr ""
+
+#: includes/comment.php:53
+msgid "插入表情"
+msgstr ""
+
+#: includes/mobile.php:11
+msgid "返回"
+msgstr ""
+
+#: includes/mobile.php:44 includes/mobile.php:168
+msgid "分类"
+msgstr ""
+
+#: includes/mobile.php:56 includes/mobile.php:171 includes/mobile.php:302
+msgid "关于"
+msgstr ""
+
+#: includes/mobile.php:70
+msgid "内容"
+msgstr ""
+
+#: includes/mobile.php:72
+msgid "相关"
+msgstr ""
+
+#: includes/mobile.php:100
+msgid "热门搜索"
+msgstr ""
+
+#: includes/mobile.php:187
+msgid "更多..."
+msgstr ""
+
+#: includes/mobile.php:190
+msgid "加载中..."
+msgstr ""
+
+#: includes/mobile.php:193
+msgid "全部加载完成"
+msgstr ""
+
+#: includes/mobile.php:210
+msgid "上一页"
+msgstr ""
+
+#: includes/mobile.php:220
+msgid "下一页"
+msgstr ""
+
+#: includes/posts-list.php:32
+msgid "这里什么都没有"
+msgstr ""
+
+#: includes/posts-list.php:36
+msgid "没有搜索到任何结果"
+msgstr ""
+
+#: includes/posts-list.php:40
+msgid "这里什么都没有，你也许可以使用搜索功能找到你需要的内容："
+msgstr ""
+
+#: includes/posts-list.php:185
+#, php-format
+msgid "《%s》的发布日期"
+msgstr ""
+
+#: includes/posts-list.php:195
+msgid "发布于Y年m月d日"
+msgstr ""
+
+#: includes/posts-list.php:207
+#, php-format
+msgid "浏览了%s次"
+msgstr ""
+
+#: includes/posts-list.php:217
+msgid "无评论"
+msgstr ""
+
+#: includes/posts-list.php:217
+msgid "已关闭评论"
+msgstr ""
+
+#: includes/posts-list.php:222
+msgid "标签"
+msgstr ""
+
+#: includes/related-posts.php:25
+msgid "相关文章"
+msgstr ""
+
+#: includes/related-posts.php:28
+msgid "换一批新的相关文章"
+msgstr ""
+
+#: includes/shortcodes.php:16
+msgid "没有文章。"
+msgstr ""
+
+#: includes/shortcodes.php:65
+msgid "没有找到友情链接。"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:8 mpanel/mpanel-ui.php:851
+msgid "头部广告"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:9
+msgid "底部广告"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:10
+msgid "文章底部广告"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:14
+msgid "基本设置"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:17
+msgid "响应式布局"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:26
+msgid "开启响应式布局"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:43
+msgid "显示图片 Logo"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:52
+msgid "自定义 Logo"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:55
+msgid "Logo 图片显示大小为 120 × 50px；请尽量选择 240 × 100px 的图片，以兼容 Retina 屏幕的显示效果"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:61
+msgid "缩略图"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:65
+msgid "显示缩略图"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:73
+msgid "裁剪缩略图图片"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:76
+#, php-format
+msgid "使用 WordPress 自带函数自动裁剪文章的缩略图到需要的尺寸，生成的缩略图文件将统一存储到：%s"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:87
+msgid "AJAX 加载页面"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:98
+msgid "AJAX 提交评论"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:107
+msgid "进度条"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:111
+msgid "显示 AJAX 加载进度条"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:114
+msgid "AJAX 加载页面时在顶部显示进度条"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:121
+msgid "面包屑导航"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:125
+msgid "显示面包屑导航"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:134 mpanel/mpanel-ui.php:138
+msgid "网站描述"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:141
+msgid "优化建议：不超过 140 个字"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:142
+msgid "给搜索引擎使用的网站描述内容"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:150
+msgid "幻灯设置"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:153
+msgid "幻灯片"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:157
+msgid "开启首页幻灯片"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:167
+msgid "首页幻灯片"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:171
+msgid "幻灯片数量"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:176 mpanel/mpanel-ui.php:187
+msgid "篇"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:182
+msgid "每页显示数量"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:188
+msgid "每页显示的幻灯片数量"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:194
+msgid "显示分页按钮"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:197
+msgid "显示底部的分页切换按钮"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:203
+msgid "循环播放"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:206
+msgid "最后一张幻灯片后自动连接第一张"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:212
+msgid "自动播放"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:215
+msgid "自动切换幻灯片"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:222
+msgid "自动播放速度"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:227
+msgid "秒"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:234
+msgid "切换速度"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:239
+msgid "毫秒"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:246
+msgid "幻灯片高度"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:257
+msgid "内容查询"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:261
+msgid "最新文章"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:262
+msgid "置顶文章"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:263
+msgid "随机文章"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:264
+msgid "热门文章（评论）"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:265
+msgid "热门文章（浏览）"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:266
+msgid "分类文章"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:268
+msgid "选择幻灯片内容"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:279
+msgid "选择分类"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:293
+msgid "优化配置"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:296 includes/widgets/widget-posts-list.php:14
+#: includes/widgets/widget-posts-list.php:18
+msgid "文章"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:300
+msgid "阻止站内文章互相 Pingback"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:308
+msgid "首行缩进两格"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:311
+msgid "文章每个段落开头自动空两格"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:316
+msgid "显示相关文章"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:325
+msgid "相关文章数量"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:333
+msgid "文章编辑器实时预览"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:336
+msgid "在后台使用文章编辑器撰写文章的时候，可以实时预览到与前台主题一样的显示效果，方便进行排版"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:346
+msgid "移动端文章页折叠"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:349
+msgid "在移动端查看文章页时，把内容、评论和分类折叠到三个标签栏里，通过点击进行切换，类似于 App Store。"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:356
+msgid "头部元信息"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:360
+msgid "移除头部无用信息"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:364
+msgid "WordPress 在头部输出了一些无用的信息，开启后会把他们移除"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:369
+msgid "关闭离线编辑器接口"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:372
+msgid "如果你只使用 WordPress 的后台编辑器开启此选项会更安全"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:378
+msgid "阅读"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:382
+msgid "文章链接全部在新窗口打开"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:389
+msgid "文章外链添加 nofollow 并在新窗口打开"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:402
+msgid "搜索结果只包括文章"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:405
+msgid "排除页面和其它自定义文章类型"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:410
+msgid "搜索结果只有一篇文章时自动跳转到该文章"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:418
+msgid "移动版搜索页面显示热门搜索"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:428
+msgid "推荐搜索"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:432
+msgid "开启推荐搜索"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:441
+msgid "推荐搜索内容"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:444
+msgid "推荐用户搜索的关键词"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:450
+msgid "标题标签降级"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:454
+msgid "开启标题标签降级"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:464
+msgid "文章列表全文"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:468
+msgid "文章列表显示全文"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:479
+msgid "评论系统"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:482
+msgid "垃圾评论"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:486
+msgid "垃圾评论拦截"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:489
+msgid "拦截所有不是来自于本站评论表单的评论"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:494
+msgid "拦截不包含中文的评论"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:501
+msgid "禁止没有头像的用户评论"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:504
+msgid "谨慎开启。开启之后如果评论用户的邮箱没有 Gravatar 头像将会被禁止"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:510 mpanel/mpanel-ui.php:514
+msgid "评论邮件通知"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:517
+msgid "当用户的评论被回复之后自动发送一封邮件提醒"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:523 mpanel/mpanel-ui.php:527
+msgid "回复评论加 @"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:531
+msgid "回复的评论会在前面加上 @ 回复的人，@ 不会被写入数据库；使用主题之前的评论也有效"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:537
+msgid "评论链接"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:541
+msgid "评论作者链接新窗口打开"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:544
+msgid "评论作者的链接在新窗口打开，以免流失访客"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:552
+msgid "底部内容"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:559
+msgid "显示页脚菜单"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:568
+msgid "页脚文本区域内容"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:572
+msgid "页脚文本区域内容（左）"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:575
+msgid "显示在页脚左侧"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:577
+msgid "通常为网站版权信息；会在很多地方调用，请不要添加统计代码之类的内容"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:582
+msgid "页脚文本区域内容（右）"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:585
+msgid "显示在页脚右侧"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:587
+msgid "请不要去除版权链接"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:597
+msgid "显示返回顶部按钮"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:606
+msgid "关于页面"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:610
+msgid "关于页面内容"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:615
+msgid "页脚文本"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:616
+msgid "自定义页面"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:619
+msgid "选择移动端关于页面的内容，默认显示两段页脚文本，也可以选择一个自定义页面。"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:631
+msgid "自定义关于页面"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:644
+msgid "边栏设置"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:647
+msgid "侧边栏"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:651
+msgid "显示侧边栏"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:661 mpanel/mpanel-ui.php:674
+msgid "侧边栏宽度"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:665
+msgid "自定义侧边栏宽度"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:668
+msgid "自由选择侧边栏的宽度"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:686
+msgid "侧边栏列表"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:690
+msgid "创建侧边栏"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:698
+msgid "侧边栏位置"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:705
+msgid "文章页"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:706
+msgid "存档页"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:707
+msgid "搜索页"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:710
+#, php-format
+msgid "%s侧边栏"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:717
+#, php-format
+msgid "分类[%s]侧边栏"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:725
+#, php-format
+msgid "页面[%s]侧边栏"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:760
+msgid "样式定义"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:763 mpanel/mpanel-ui.php:784
+msgid "主颜色"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:767
+msgid "主颜色来源"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:772
+msgid "默认"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:773
+msgid "自定义"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:774
+msgid "每次刷新随机一种"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:777
+msgid "选择一种主颜色的来源；随机颜色为 5 种系统配色随机呈现一种，要整体刷新页面才会重新分配颜色。"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:793
+msgid "纯色滤镜"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:797
+msgid "开启纯色滤镜"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:799
+msgid "为网站使用纯色的滤镜，背景、文字和图片等均会变成黑白色；部分浏览器无效（例如 Edge 版本以下的 IE）"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:806
+msgid "大号字体"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:810
+msgid "使用大号字体"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:812
+msgid "默认主题为 12px 的字体，如果你觉得太小，可以开启此选项改为 13px。"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:819
+msgid "自定义全局 CSS"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:825
+msgid "前台全局 CSS 代码"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:831
+msgid "自定义响应式 CSS"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:836
+#, php-format
+msgid "自定义响应式 CSS（%s px 以下）"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:839
+#, php-format
+msgid "此 CSS 会在屏幕分辨率在 %s px 以下才会生效"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:848
+msgid "广告设置"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:856
+#, php-format
+msgid "显示%s"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:873
+msgid "广告类型"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:877
+msgid "图片广告"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:878
+msgid "代码广告"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:894
+msgid "广告图片"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:901
+msgid "提示文本"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:904
+msgid "留空则不显示提示文本"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:905
+msgid "鼠标停留到广告图片时显示的文本"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:910
+msgid "广告链接"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:913
+msgid "留空则不添加链接"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:914
+msgid "广告的链接地址"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:919
+msgid "在新窗口打开链接"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:927 includes/widgets/widget-banner.php:15
+msgid "自定义广告代码"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:934
+msgid "自动下架"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:937
+msgid "留空则不自动下架"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:938
+msgid "到此日期时自动不显示广告"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:943
+msgid "适用平台"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:946
+msgid "移动端应该尽量避免使用加载速度较慢的广告"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:947
+msgid "可以利用 Ctrl 键多选"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:949
+msgid "在 PC 端显示"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:950
+msgid "在移动端显示"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:962
+msgid "高级功能"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:965 mpanel/mpanel-ui.php:969
+msgid "头像缓存"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:972
+#, php-format
+msgid "将存储在美国服务器的 Gravatar 头像缓存到本地，提高加载速度；生成的缓存图片文件将统一存储到：%s"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:978
+msgid "缓存天数"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:981
+msgid "设置为 0 则永久缓存"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:988
+msgid "镜像防火墙"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:992
+msgid "开启镜像防火墙"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:999
+msgid ""
+"镜像防火墙并不像名字一样能够防止网站被镜像，只能是在用户访问镜像网站时检测域名，如果不是我们的域名则自动跳转回来，所以此功能需要 JavaScript "
+"的支持，请不要给 JavaScript 文件设置防盗链功能。"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:1006
+msgid "自定义头部代码"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:1016
+msgid "这段代码会被添加到前台的 &lt;head&gt; 标签里边，可以引入一些 CSS、放置统计代码。"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:1023
+msgid "自定义底部代码"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:1033
+msgid "这段代码会被添加到前台的底部 &lt;/body&gt; 标签之前，可以放置统计代码、引入一些 JS。"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:1040
+msgid "导出设置"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:1050
+msgid "保存这个文本框的代码即可备份设置，把代码填入下边的文本框就能恢复设置。"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:1057
+msgid "导入设置"
+msgstr ""
+
+#: mpanel/mpanel-ui.php:1063
+msgid "粘贴之前保存的设置导出字符串，点击保存就能导入"
+msgstr ""
+
+#: includes/widgets/widget-banner.php:14 includes/widgets/widget-banner.php:18
+msgid "广告"
+msgstr ""
+
+#: includes/widgets/widget-banner.php:52
+#: includes/widgets/widget-posts-list.php:151
+#: includes/widgets/widget-recent-comments.php:157
+#: includes/widgets/widget-tag-cloud.php:89
+msgid "标题："
+msgstr ""
+
+#: includes/widgets/widget-banner.php:56
+msgid "广告代码："
+msgstr ""
+
+#: includes/widgets/widget-banner.php:60
+msgid "广告预览："
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:15
+msgid "根据设置可以显示不同的文章"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:131
+msgid "发布时间"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:132
+msgid "评论数量"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:133
+msgid "浏览次数"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:134
+#: includes/widgets/widget-tag-cloud.php:85
+msgid "随机排列"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:138
+#: includes/widgets/widget-recent-comments.php:144
+msgid "无限制"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:139
+#: includes/widgets/widget-recent-comments.php:145
+msgid "一天之内"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:140
+#: includes/widgets/widget-recent-comments.php:146
+msgid "三天之内"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:141
+#: includes/widgets/widget-recent-comments.php:147
+msgid "一周之内"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:142
+#: includes/widgets/widget-recent-comments.php:148
+msgid "一个月之内"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:143
+#: includes/widgets/widget-recent-comments.php:149
+msgid "三个月之内"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:144
+#: includes/widgets/widget-recent-comments.php:150
+msgid "半年之内"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:145
+#: includes/widgets/widget-recent-comments.php:151
+msgid "一年之内"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:146
+#: includes/widgets/widget-recent-comments.php:152
+msgid "两年之内"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:147
+#: includes/widgets/widget-recent-comments.php:153
+msgid "三年之内"
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:155
+msgid "文章排序："
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:163
+#: includes/widgets/widget-recent-comments.php:185
+msgid "倒序排列："
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:167
+msgid "文章数量："
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:171
+msgid "显示缩略图："
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:175
+#: includes/widgets/widget-recent-comments.php:189
+msgid "日期限制："
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:183
+#: includes/widgets/widget-recent-comments.php:177
+msgid "排除文章："
+msgstr ""
+
+#: includes/widgets/widget-posts-list.php:198
+#, php-format
+msgid "排除%s："
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:15
+msgid "根据设置可以显示不同的评论"
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:59
+#, php-format
+msgid "发表在《%s》"
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:161
+msgid "评论数量："
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:165
+msgid "排除用户："
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:173
+msgid "排除所有管理员："
+msgstr ""
+
+#: includes/widgets/widget-tag-cloud.php:14
+#: includes/widgets/widget-tag-cloud.php:18
+msgid "标签云"
+msgstr ""
+
+#: includes/widgets/widget-tag-cloud.php:15
+msgid "显示任意分类法的条款"
+msgstr ""
+
+#: includes/widgets/widget-tag-cloud.php:78
+msgid "标签名称"
+msgstr ""
+
+#: includes/widgets/widget-tag-cloud.php:79
+msgid "文章数量"
+msgstr ""
+
+#: includes/widgets/widget-tag-cloud.php:83
+msgid "正序排列"
+msgstr ""
+
+#: includes/widgets/widget-tag-cloud.php:84
+msgid "倒序排列"
+msgstr ""
+
+#: includes/widgets/widget-tag-cloud.php:92
+msgid "设置为 0 则全部显示"
+msgstr ""
+
+#: includes/widgets/widget-tag-cloud.php:93
+msgid "标签数量："
+msgstr ""
+
+#: includes/widgets/widget-tag-cloud.php:97
+msgid "分类法："
+msgstr ""
+
+#: includes/widgets/widget-tag-cloud.php:108
+msgid "标签排序："
+msgstr ""
+
+#: includes/widgets/widget-tag-cloud.php:116
+msgid "排序规则："
+msgstr ""
+
+#. Name of the theme
+msgid "Beginning"
+msgstr ""
+
+#. Description of the theme
+msgid "The template by <a href=\"https://www.bgbk.org\">斌果</a>."
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.bgbk.org/wp-theme-beginning/"
+msgstr ""
+
+#. Author of the theme
+msgid "斌果"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.bgbk.org"
+msgstr ""

@@ -1,0 +1,1599 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beginning\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-09 10:04+0000\n"
+"PO-Revision-Date: 2017-10-17 04:05+0000\n"
+"Last-Translator: Khoản Huỳnh <admin@vicoder.net>\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: mpanel/mpanel-ui.php:839
+#, php-format
+msgid "此 CSS 会在屏幕分辨率在 %s px 以下才会生效"
+msgstr ""
+"CSS này sẽ ở độ phân giải màn hình trong  s px giáp các đô thị: mới có hiệu "
+"lực."
+
+#: mpanel/mpanel-ui.php:848
+msgid "广告设置"
+msgstr "Cài đặt quảng cáo"
+
+#: mpanel/mpanel-ui.php:856
+#, php-format
+msgid "显示%s"
+msgstr "Màn hình hiển thị %s"
+
+#: mpanel/mpanel-ui.php:873
+msgid "广告类型"
+msgstr "Loại hình quảng cáo"
+
+#: mpanel/mpanel-ui.php:877
+msgid "图片广告"
+msgstr "Quảng cáo hình ảnh"
+
+#: mpanel/mpanel-ui.php:878
+msgid "代码广告"
+msgstr "Mã quảng cáo"
+
+#: mpanel/mpanel-ui.php:894
+msgid "广告图片"
+msgstr "Quảng cáo hình ảnh"
+
+#: mpanel/mpanel-ui.php:901
+msgid "提示文本"
+msgstr "Văn bản nhanh chóng"
+
+#: mpanel/mpanel-ui.php:904
+msgid "留空则不显示提示文本"
+msgstr "Mẹo văn bản trống không được hiển thị"
+
+#: mpanel/mpanel-ui.php:905
+msgid "鼠标停留到广告图片时显示的文本"
+msgstr "Văn bản Hiển thị khi quảng cáo di chuột"
+
+#: mpanel/mpanel-ui.php:910
+msgid "广告链接"
+msgstr "Liên kết quảng cáo"
+
+#: mpanel/mpanel-ui.php:913
+msgid "留空则不添加链接"
+msgstr "Trống không thêm liên kết"
+
+#: mpanel/mpanel-ui.php:914
+msgid "广告的链接地址"
+msgstr "Liên kết quảng cáo"
+
+#: mpanel/mpanel-ui.php:919
+msgid "在新窗口打开链接"
+msgstr "Mở liên kết trong một cửa sổ mới"
+
+#: mpanel/mpanel-ui.php:927 includes/widgets/widget-banner.php:15
+msgid "自定义广告代码"
+msgstr "Mã tùy chỉnh quảng cáo"
+
+#: mpanel/mpanel-ui.php:934
+msgid "自动下架"
+msgstr "Tự động"
+
+#: mpanel/mpanel-ui.php:937
+msgid "留空则不自动下架"
+msgstr "Trống là không tự động"
+
+#: mpanel/mpanel-ui.php:938
+msgid "到此日期时自动不显示广告"
+msgstr "Đến ngày khi tự động không hiển thị quảng cáo."
+
+#: mpanel/mpanel-ui.php:943
+msgid "适用平台"
+msgstr "Nền tảng ứng dụng"
+
+#: mpanel/mpanel-ui.php:946
+msgid "移动端应该尽量避免使用加载速度较慢的广告"
+msgstr "Điện thoại di động nên cố gắng tránh sử dụng quảng cáo load chậm hơn"
+
+#: mpanel/mpanel-ui.php:947
+msgid "可以利用 Ctrl 键多选"
+msgstr "Bạn có thể sử dụng nhiều lựa chọn phím Ctrl"
+
+#: mpanel/mpanel-ui.php:949
+msgid "在 PC 端显示"
+msgstr "Hiển thị ở phía bên PC"
+
+#: mpanel/mpanel-ui.php:950
+msgid "在移动端显示"
+msgstr "Ngày Hiển thị bên điện thoại di động"
+
+#: mpanel/mpanel-ui.php:962
+msgid "高级功能"
+msgstr "Tính năng nâng cao"
+
+#: mpanel/mpanel-ui.php:965 mpanel/mpanel-ui.php:969
+msgid "头像缓存"
+msgstr "Avatar bộ nhớ cache"
+
+#: mpanel/mpanel-ui.php:972
+#, php-format
+msgid "将存储在美国服务器的 Gravatar 头像缓存到本地，提高加载速度；生成的缓存图片文件将统一存储到：%s"
+msgstr ""
+"Sẽ được lưu trữ cục bộ trên máy chủ cache Gravatar avatar cho Hoa Kỳ, tăng "
+"tốc độ tải; bộ nhớ cache được tạo ra hình ảnh tập tin sẽ được lưu trữ để: %s"
+
+#: mpanel/mpanel-ui.php:978
+msgid "缓存天数"
+msgstr "Bộ nhớ cache của ngày"
+
+#: mpanel/mpanel-ui.php:981
+msgid "设置为 0 则永久缓存"
+msgstr "Đặt là 0 để vĩnh viễn bộ nhớ cache"
+
+#: mpanel/mpanel-ui.php:988
+msgid "镜像防火墙"
+msgstr "Tường lửa được nhân đôi"
+
+#: mpanel/mpanel-ui.php:992
+msgid "开启镜像防火墙"
+msgstr "Mở tường lửa được nhân đôi"
+
+#: mpanel/mpanel-ui.php:999
+msgid ""
+"镜像防火墙并不像名字一样能够防止网站被镜像，只能是在用户访问镜像网站时检测域名，如果不是我们的域名则自动跳转回来，所以此功能需要 JavaScript "
+"的支持，请不要给 JavaScript 文件设置防盗链功能。"
+msgstr ""
+"Phản ánh là không giống như tên của các bức tường lửa có thể ngăn chặn các "
+"trang web đang được nhân đôi, chỉ thuộc phạm vi kiểm tra tên khi một người "
+"dùng truy cập một trang web được nhân đôi, nếu không phải là tên miền của "
+"chúng tôi sẽ tự động nhảy trở lại, do đó, tính năng này yêu cầu hỗ trợ "
+"JavaScript, vui lòng không đặt các chức năng chuỗi để tập tin JavaScript."
+
+#: mpanel/mpanel-ui.php:1006
+msgid "自定义头部代码"
+msgstr "Tiêu đề tùy chỉnh mã"
+
+#: mpanel/mpanel-ui.php:1016
+msgid "这段代码会被添加到前台的 &lt;head&gt; 标签里边，可以引入一些 CSS、放置统计代码。"
+msgstr ""
+"Đây là đoạn mã có thể được thêm vào lễ tân & lt; head&gt; trong đó có thể "
+"giới thiệu một thẻ, CSS, đặt mã thống kê."
+
+#: mpanel/mpanel-ui.php:1023
+msgid "自定义底部代码"
+msgstr "Dưới cùng của mã tùy chỉnh"
+
+#: mpanel/mpanel-ui.php:1033
+msgid "这段代码会被添加到前台的底部 &lt;/body&gt; 标签之前，可以放置统计代码、引入一些 JS。"
+msgstr ""
+"Đây là đoạn mã có thể được thêm vào lễ tân ở phía dưới & lt; /body&gt; thẻ "
+"trước khi có thể đặt những thống kê, vào một số mã JS."
+
+#: mpanel/mpanel-ui.php:1040
+msgid "导出设置"
+msgstr "Export Settings"
+
+#: mpanel/mpanel-ui.php:1050
+msgid "保存这个文本框的代码即可备份设置，把代码填入下边的文本框就能恢复设置。"
+msgstr ""
+"Giữ mã này vào hộp văn bản của tập sao lưu, điền vào các dưới văn bản mã hộp "
+"sẽ có thể để khôi phục lại cài đặt."
+
+#: mpanel/mpanel-ui.php:1057
+msgid "导入设置"
+msgstr "Thiết đặt chuyển nhập"
+
+#: mpanel/mpanel-ui.php:1063
+msgid "粘贴之前保存的设置导出字符串，点击保存就能导入"
+msgstr ""
+"Import dây trước khi bạn dán cài đặt đã lưu, hãy nhấp vào lưu nhập khẩu\n"
+
+#: includes/widgets/widget-banner.php:14 includes/widgets/widget-banner.php:18
+msgid "广告"
+msgstr "Quảng cáo"
+
+#: includes/widgets/widget-banner.php:52
+#: includes/widgets/widget-posts-list.php:151
+#: includes/widgets/widget-recent-comments.php:157
+#: includes/widgets/widget-tag-cloud.php:89
+msgid "标题："
+msgstr "Tiêu đề:"
+
+#: includes/widgets/widget-banner.php:56
+msgid "广告代码："
+msgstr "Mã quảng cáo:"
+
+#: includes/widgets/widget-banner.php:60
+msgid "广告预览："
+msgstr "Xem trước quảng cáo:"
+
+#: includes/widgets/widget-posts-list.php:15
+msgid "根据设置可以显示不同的文章"
+msgstr "Theo các thiết lập có thể hiển thị một bài viết khác nhau"
+
+#: includes/widgets/widget-posts-list.php:131
+msgid "发布时间"
+msgstr "Thời gian phát hành"
+
+#: includes/widgets/widget-posts-list.php:132
+msgid "评论数量"
+msgstr "Số ý kiến"
+
+#: includes/widgets/widget-posts-list.php:133
+msgid "浏览次数"
+msgstr "Số lần xem"
+
+#: includes/widgets/widget-posts-list.php:134
+#: includes/widgets/widget-tag-cloud.php:85
+msgid "随机排列"
+msgstr "Sắp xếp ngẫu nhiên"
+
+#: includes/widgets/widget-posts-list.php:138
+#: includes/widgets/widget-recent-comments.php:144
+msgid "无限制"
+msgstr "Không giới hạn"
+
+#: includes/widgets/widget-posts-list.php:139
+#: includes/widgets/widget-recent-comments.php:145
+msgid "一天之内"
+msgstr "Trong vòng một ngày"
+
+#: includes/widgets/widget-posts-list.php:140
+#: includes/widgets/widget-recent-comments.php:146
+msgid "三天之内"
+msgstr "Trong vòng ba ngày"
+
+#: includes/widgets/widget-posts-list.php:141
+#: includes/widgets/widget-recent-comments.php:147
+msgid "一周之内"
+msgstr "Trong vòng một tuần"
+
+#: includes/widgets/widget-posts-list.php:142
+#: includes/widgets/widget-recent-comments.php:148
+msgid "一个月之内"
+msgstr "Trong vòng một tháng"
+
+#: includes/widgets/widget-posts-list.php:143
+#: includes/widgets/widget-recent-comments.php:149
+msgid "三个月之内"
+msgstr "Trong vòng ba tháng"
+
+#: includes/widgets/widget-posts-list.php:144
+#: includes/widgets/widget-recent-comments.php:150
+msgid "半年之内"
+msgstr "Trong vòng nửa năm"
+
+#: includes/widgets/widget-posts-list.php:145
+#: includes/widgets/widget-recent-comments.php:151
+msgid "一年之内"
+msgstr "Trong vòng một năm"
+
+#: includes/widgets/widget-posts-list.php:146
+#: includes/widgets/widget-recent-comments.php:152
+msgid "两年之内"
+msgstr "Trong vòng hai năm"
+
+#: includes/widgets/widget-posts-list.php:147
+#: includes/widgets/widget-recent-comments.php:153
+msgid "三年之内"
+msgstr "Trong vòng ba năm"
+
+#: includes/widgets/widget-posts-list.php:155
+msgid "文章排序："
+msgstr "Sắp xếp bài viết:"
+
+#: includes/widgets/widget-posts-list.php:163
+#: includes/widgets/widget-recent-comments.php:185
+msgid "倒序排列："
+msgstr "Trong thứ tự ngược lại:"
+
+#: includes/widgets/widget-posts-list.php:167
+msgid "文章数量："
+msgstr "Số bài viết:"
+
+#: includes/widgets/widget-posts-list.php:171
+msgid "显示缩略图："
+msgstr "Hiển thị hình thu nhỏ:"
+
+#: includes/widgets/widget-posts-list.php:175
+#: includes/widgets/widget-recent-comments.php:189
+msgid "日期限制："
+msgstr "Ngày giới hạn:"
+
+#: includes/widgets/widget-posts-list.php:183
+#: includes/widgets/widget-recent-comments.php:177
+msgid "排除文章："
+msgstr "Không bao gồm các cơ sở:"
+
+#: includes/widgets/widget-posts-list.php:198
+#, php-format
+msgid "排除%s："
+msgstr "Loại trừ các %s:"
+
+#: includes/widgets/widget-recent-comments.php:15
+msgid "根据设置可以显示不同的评论"
+msgstr "Theo các thiết lập có thể hiển thị các ý kiến khác nhau"
+
+#: includes/widgets/widget-recent-comments.php:59
+#, php-format
+msgid "发表在《%s》"
+msgstr "Được đăng trong 《%s》"
+
+#: includes/widgets/widget-recent-comments.php:161
+msgid "评论数量："
+msgstr "Số bình luận:"
+
+#: includes/widgets/widget-recent-comments.php:165
+msgid "排除用户："
+msgstr "Để loại trừ một người sử dụng:"
+
+#: includes/widgets/widget-recent-comments.php:173
+msgid "排除所有管理员："
+msgstr "Loại trừ tất cả các quản trị viên:"
+
+#: includes/widgets/widget-tag-cloud.php:14
+#: includes/widgets/widget-tag-cloud.php:18
+msgid "标签云"
+msgstr "Danh Mục Phân Loại"
+
+#: includes/widgets/widget-tag-cloud.php:15
+msgid "显示任意分类法的条款"
+msgstr "Hiển thị các điều khoản phân loại"
+
+#: includes/widgets/widget-tag-cloud.php:78
+msgid "标签名称"
+msgstr "Nhãn tên"
+
+#: includes/widgets/widget-tag-cloud.php:79
+msgid "文章数量"
+msgstr "Nhãn tên"
+
+#. Name of the theme
+msgid "Beginning"
+msgstr "Salmon"
+
+#: mpanel/mpanel-ui.php:706
+msgid "存档页"
+msgstr "Trang lưu trữ"
+
+#: mpanel/mpanel-ui.php:707
+msgid "搜索页"
+msgstr "Trang tìm kiếm"
+
+#: mpanel/mpanel-ui.php:710
+#, php-format
+msgid "%s侧边栏"
+msgstr "Sidebar %s"
+
+#: mpanel/mpanel-ui.php:717
+#, php-format
+msgid "分类[%s]侧边栏"
+msgstr "Thể loại [%s] Sidebar"
+
+#: mpanel/mpanel-ui.php:725
+#, php-format
+msgid "页面[%s]侧边栏"
+msgstr "Page [%s] sidebar"
+
+#: mpanel/mpanel-ui.php:760
+msgid "样式定义"
+msgstr "Xác định kiểu dáng"
+
+#: mpanel/mpanel-ui.php:763 mpanel/mpanel-ui.php:784
+msgid "主颜色"
+msgstr "Màu cơ bản"
+
+#: mpanel/mpanel-ui.php:767
+msgid "主颜色来源"
+msgstr "Màu chính"
+
+#: mpanel/mpanel-ui.php:772
+msgid "默认"
+msgstr "Mặc định"
+
+#: mpanel/mpanel-ui.php:773
+msgid "自定义"
+msgstr "Tuỳ chỉnh"
+
+#: mpanel/mpanel-ui.php:774
+msgid "每次刷新随机一种"
+msgstr "Mỗi lần cập nhật một cách ngẫu nhiên."
+
+#: mpanel/mpanel-ui.php:777
+msgid "选择一种主颜色的来源；随机颜色为 5 种系统配色随机呈现一种，要整体刷新页面才会重新分配颜色。"
+msgstr ""
+"Chọn một nguồn màu cơ bản; màu ngẫu nhiên thành năm hệ thống trình bày một "
+"màu ngẫu nhiên để làm mới toàn bộ trang sẽ được màu sắc lại được giao."
+
+#: mpanel/mpanel-ui.php:793
+msgid "纯色滤镜"
+msgstr "Bộ lọc màu tinh khiết"
+
+#: mpanel/mpanel-ui.php:797
+msgid "开启纯色滤镜"
+msgstr "Mở các bộ lọc màu rắn"
+
+#: mpanel/mpanel-ui.php:799
+msgid "为网站使用纯色的滤镜，背景、文字和图片等均会变成黑白色；部分浏览器无效（例如 Edge 版本以下的 IE）"
+msgstr ""
+"Cho một trang web với một bộ lọc màu sắc rắn, hình nền, văn bản và hình ảnh "
+"có màu đen và trắng; một số trình duyệt là không hợp lệ (ví dụ, cạnh phiên "
+"bản của IE)"
+
+#: mpanel/mpanel-ui.php:806
+msgid "大号字体"
+msgstr "Phông chữ lớn"
+
+#: mpanel/mpanel-ui.php:810
+msgid "使用大号字体"
+msgstr "Sử dụng phông chữ lớn"
+
+#: mpanel/mpanel-ui.php:812
+msgid "默认主题为 12px 的字体，如果你觉得太小，可以开启此选项改为 13px。"
+msgstr ""
+"Font 12px theme mặc định, nếu bạn cảm thấy quá nhỏ, bạn có thể tắt tùy chọn "
+"này để 13px."
+
+#: mpanel/mpanel-ui.php:819
+msgid "自定义全局 CSS"
+msgstr "Tuỳ chỉnh CSS toàn cầu"
+
+#: mpanel/mpanel-ui.php:825
+msgid "前台全局 CSS 代码"
+msgstr "Tiếp nhận mã CSS toàn cầu"
+
+#: mpanel/mpanel-ui.php:831
+msgid "自定义响应式 CSS"
+msgstr "Tùy chỉnh phản ứng kiểu CSS"
+
+#: mpanel/mpanel-ui.php:836
+#, php-format
+msgid "自定义响应式 CSS（%s px 以下）"
+msgstr "Tuỳ chỉnh đáp ứng CSS (%s px ít hơn)"
+
+#: mpanel/mpanel-ui.php:585
+msgid "显示在页脚右侧"
+msgstr "Xuất hiện ở bên phải ở chân trang"
+
+#: mpanel/mpanel-ui.php:587
+msgid "请不要去除版权链接"
+msgstr "Xin vui lòng không loại bỏ bản quyền liên kết"
+
+#: mpanel/mpanel-ui.php:597
+msgid "显示返回顶部按钮"
+msgstr "Hiển thị quay lại nút đầu"
+
+#: mpanel/mpanel-ui.php:606
+msgid "关于页面"
+msgstr "Về trang"
+
+#: mpanel/mpanel-ui.php:610
+msgid "关于页面内容"
+msgstr "Về nội dung trang"
+
+#: mpanel/mpanel-ui.php:615
+msgid "页脚文本"
+msgstr "Chân trang văn bản"
+
+#: mpanel/mpanel-ui.php:616
+msgid "自定义页面"
+msgstr "Tuỳ chỉnh trang"
+
+#: mpanel/mpanel-ui.php:619
+msgid "选择移动端关于页面的内容，默认显示两段页脚文本，也可以选择一个自定义页面。"
+msgstr ""
+"Chọn điện thoại di động nội dung trên trang web, theo mặc định sẽ hiển thị "
+"một văn bản hai chân, hoặc bạn có thể chọn một tùy chỉnh trang."
+
+#: mpanel/mpanel-ui.php:631
+msgid "自定义关于页面"
+msgstr "Tuỳ chỉnh trang"
+
+#: mpanel/mpanel-ui.php:644
+msgid "边栏设置"
+msgstr "Cài đặt sidebar"
+
+#: mpanel/mpanel-ui.php:647
+msgid "侧边栏"
+msgstr "Sidebar"
+
+#: mpanel/mpanel-ui.php:651
+msgid "显示侧边栏"
+msgstr "Hiển thị sidebar"
+
+#: mpanel/mpanel-ui.php:661 mpanel/mpanel-ui.php:674
+msgid "侧边栏宽度"
+msgstr "Chiều rộng sidebar"
+
+#: mpanel/mpanel-ui.php:665
+msgid "自定义侧边栏宽度"
+msgstr "Độ rộng sidebar tùy chỉnh"
+
+#: mpanel/mpanel-ui.php:668
+msgid "自由选择侧边栏的宽度"
+msgstr "Sự tự do để lựa chọn độ rộng của sidebar"
+
+#: mpanel/mpanel-ui.php:686
+msgid "侧边栏列表"
+msgstr "Danh sách sidebar"
+
+#: mpanel/mpanel-ui.php:690
+msgid "创建侧边栏"
+msgstr "Tạo sidebar"
+
+#: mpanel/mpanel-ui.php:698
+msgid "侧边栏位置"
+msgstr "Vị trí sidebar"
+
+#: mpanel/mpanel-ui.php:705
+msgid "文章页"
+msgstr "Trang bài viết"
+
+#: mpanel/mpanel-ui.php:410
+msgid "搜索结果只有一篇文章时自动跳转到该文章"
+msgstr "Chỉ tìm được một bài nên tự động nhảy vào bài viết luôn."
+
+#: mpanel/mpanel-ui.php:418
+msgid "移动版搜索页面显示热门搜索"
+msgstr "Phiên bản di động để tìm kiếm trang tìm kiếm hiện thời sự."
+
+#: mpanel/mpanel-ui.php:428
+msgid "推荐搜索"
+msgstr "Đề nghị tìm kiếm"
+
+#: mpanel/mpanel-ui.php:432
+msgid "开启推荐搜索"
+msgstr "Giới thiệu tìm kiếm mở."
+
+#: mpanel/mpanel-ui.php:441
+msgid "推荐搜索内容"
+msgstr "Được giới thiệu tìm kiếm"
+
+#: mpanel/mpanel-ui.php:444
+msgid "推荐用户搜索的关键词"
+msgstr "Từ khóa tìm kiếm nổi bật người dùng"
+
+#: mpanel/mpanel-ui.php:450
+msgid "标题标签降级"
+msgstr "Thẻ tiêu đề hạ cấp"
+
+#: mpanel/mpanel-ui.php:454
+msgid "开启标题标签降级"
+msgstr "Mở danh hiệu thẻ hạ cấp"
+
+#: mpanel/mpanel-ui.php:464
+msgid "文章列表全文"
+msgstr "Danh mục bài viết đầy đủ"
+
+#: mpanel/mpanel-ui.php:468
+msgid "文章列表显示全文"
+msgstr "Danh sách bài viết cho thấy các văn bản đầy đủ"
+
+#: mpanel/mpanel-ui.php:479
+msgid "评论系统"
+msgstr "Hệ thống bình luận"
+
+#: mpanel/mpanel-ui.php:482
+msgid "垃圾评论"
+msgstr "Spam comment"
+
+#: mpanel/mpanel-ui.php:486
+msgid "垃圾评论拦截"
+msgstr "chặn thư rác"
+
+#: mpanel/mpanel-ui.php:489
+msgid "拦截所有不是来自于本站评论表单的评论"
+msgstr "Chặn tất cả không phải từ nhà ga mục bình luận comment"
+
+#: mpanel/mpanel-ui.php:494
+msgid "拦截不包含中文的评论"
+msgstr "Xét về đánh chặn không chứa Trung Quốc"
+
+#: mpanel/mpanel-ui.php:501
+msgid "禁止没有头像的用户评论"
+msgstr "Người sử dụng bị cấm với đầu đánh giá"
+
+#: mpanel/mpanel-ui.php:504
+msgid "谨慎开启。开启之后如果评论用户的邮箱没有 Gravatar 头像将会被禁止"
+msgstr ""
+"Thận trọng mở. Nếu sau khi chuyển hộp thư của người dùng không bình luận "
+"avatar Gravatar sẽ bị cấm"
+
+#: mpanel/mpanel-ui.php:510 mpanel/mpanel-ui.php:514
+msgid "评论邮件通知"
+msgstr "Thông báo email nhận xét"
+
+#: mpanel/mpanel-ui.php:517
+msgid "当用户的评论被回复之后自动发送一封邮件提醒"
+msgstr ""
+"Khi trả lời bình luận của người dùng sẽ được tự động gửi một cảnh báo e-mail"
+
+#: mpanel/mpanel-ui.php:523 mpanel/mpanel-ui.php:527
+msgid "回复评论加 @"
+msgstr "Bình luận được thêm vào @"
+
+#: mpanel/mpanel-ui.php:531
+msgid "回复的评论会在前面加上 @ 回复的人，@ 不会被写入数据库；使用主题之前的评论也有效"
+msgstr ""
+"Trả lời ý kiến sẽ được trước bởi các @ trả lời người @ sẽ không thể ghi vào "
+"cơ sở dữ liệu bằng cách sử dụng ý kiến trước khi những hiệu quả"
+
+#: mpanel/mpanel-ui.php:537
+msgid "评论链接"
+msgstr "Bình luận liên kết"
+
+#: mpanel/mpanel-ui.php:541
+msgid "评论作者链接新窗口打开"
+msgstr "Bình luận tác giả liên kết mở một cửa sổ mới"
+
+#: mpanel/mpanel-ui.php:544
+msgid "评论作者的链接在新窗口打开，以免流失访客"
+msgstr ""
+"Bình luận liên kết tác giả mở trong một cửa sổ mới, để tránh sự mất mát của "
+"khách"
+
+#: mpanel/mpanel-ui.php:552
+msgid "底部内容"
+msgstr "Dưới cùng nội dung"
+
+#: mpanel/mpanel-ui.php:559
+msgid "显示页脚菜单"
+msgstr "Hiển thị một menu chân trang"
+
+#: mpanel/mpanel-ui.php:568
+msgid "页脚文本区域内容"
+msgstr "Nội dung vùng văn bản Footer"
+
+#: mpanel/mpanel-ui.php:572
+msgid "页脚文本区域内容（左）"
+msgstr "Footer nội dung vùng văn bản (trái)"
+
+#: mpanel/mpanel-ui.php:575
+msgid "显示在页脚左侧"
+msgstr "Được hiển thị trên bên trái của chân"
+
+#: mpanel/mpanel-ui.php:577
+msgid "通常为网站版权信息；会在很多地方调用，请不要添加统计代码之类的内容"
+msgstr ""
+"Thông tin thường bản quyền cho trang web; cuộc gọi ở nhiều nơi, xin đừng "
+"thêm mã thống kê nội dung như"
+
+#: mpanel/mpanel-ui.php:582
+msgid "页脚文本区域内容（右）"
+msgstr "Chân trang văn bản (bên phải)"
+
+#: includes/widgets/widget-tag-cloud.php:83
+msgid "正序排列"
+msgstr "Sắp xếp chuỗi dương"
+
+#: includes/widgets/widget-tag-cloud.php:84
+msgid "倒序排列"
+msgstr "Theo thứ tự ngược"
+
+#: includes/widgets/widget-tag-cloud.php:92
+msgid "设置为 0 则全部显示"
+msgstr "Đặt là 0 để hiển thị tất cả"
+
+#: includes/widgets/widget-tag-cloud.php:93
+msgid "标签数量："
+msgstr "Nhãn số:"
+
+#: includes/widgets/widget-tag-cloud.php:97
+msgid "分类法："
+msgstr "Phân loại:"
+
+#: includes/widgets/widget-tag-cloud.php:108
+msgid "标签排序："
+msgstr "Thẻ phân loại:"
+
+#: includes/widgets/widget-tag-cloud.php:116
+msgid "排序规则："
+msgstr "Đối chiếu:"
+
+#. Description of the theme
+msgid "The template by <a href=\"https://www.bgbk.org\">斌果</a>."
+msgstr "The template by <a href=\"https://vicoder.net\">Vicoder</a>."
+
+#. URI of the theme
+msgid "https://www.bgbk.org/wp-theme-beginning/"
+msgstr "http://vicoder.net"
+
+#. Author of the theme
+msgid "斌果"
+msgstr "Huỳnh Đức Khoản"
+
+#. Author URI of the theme
+msgid "https://www.bgbk.org"
+msgstr "http://vicoder.net"
+
+#: mpanel/mpanel-ui.php:17
+msgid "响应式布局"
+msgstr "Bố trí phản ứng"
+
+#: mpanel/mpanel-ui.php:26
+msgid "开启响应式布局"
+msgstr "Mở bố trí đáp ứng"
+
+#: mpanel/mpanel-ui.php:43
+msgid "显示图片 Logo"
+msgstr "Hiển thị hình ảnh Logo"
+
+#: mpanel/mpanel-ui.php:52
+msgid "自定义 Logo"
+msgstr "Tùy chỉnh Logo"
+
+#: mpanel/mpanel-ui.php:55
+msgid "Logo 图片显示大小为 120 × 50px；请尽量选择 240 × 100px 的图片，以兼容 Retina 屏幕的显示效果"
+msgstr ""
+"Logo hiển thị kích thước cho 120 × 50px；Cũng có thể là kích thước 240 × "
+"100px，tương thích với màn hình hiển thị màn hình Retina\n"
+
+#: mpanel/mpanel-ui.php:61
+msgid "缩略图"
+msgstr "Hình thu nhỏ"
+
+#: mpanel/mpanel-ui.php:65
+msgid "显示缩略图"
+msgstr "Hiển thị hình thu nhỏ"
+
+#: mpanel/mpanel-ui.php:73
+msgid "裁剪缩略图图片"
+msgstr "Cắt ảnh thumbnail"
+
+#: mpanel/mpanel-ui.php:76
+#, php-format
+msgid "使用 WordPress 自带函数自动裁剪文章的缩略图到需要的尺寸，生成的缩略图文件将统一存储到：%s"
+msgstr ""
+"Sử dụng với chức năng WordPress tự động cắt hình thu nhỏ kích thước mong "
+"muốn của bài viết, tạo hình thu nhỏ các tập tin để lưu trữ thống nhất để: %s"
+
+#: mpanel/mpanel-ui.php:87
+msgid "AJAX 加载页面"
+msgstr "Tải trang AJAX "
+
+#: mpanel/mpanel-ui.php:98
+msgid "AJAX 提交评论"
+msgstr "Gửi nhận xét AJAX "
+
+#: mpanel/mpanel-ui.php:107
+msgid "进度条"
+msgstr "Thanh tiến độ"
+
+#: mpanel/mpanel-ui.php:111
+msgid "显示 AJAX 加载进度条"
+msgstr "AJAX loading progress bar sẽ được hiển thị"
+
+#: mpanel/mpanel-ui.php:114
+msgid "AJAX 加载页面时在顶部显示进度条"
+msgstr "AJAX khi trang được nạp lúc đầu sẽ hiển thị một thanh tiến độ"
+
+#: mpanel/mpanel-ui.php:121
+msgid "面包屑导航"
+msgstr "Breadcrumbs"
+
+#: mpanel/mpanel-ui.php:125
+msgid "显示面包屑导航"
+msgstr "Hiển thị breadcrumbs"
+
+#: mpanel/mpanel-ui.php:134 mpanel/mpanel-ui.php:138
+msgid "网站描述"
+msgstr "Site Description"
+
+#: mpanel/mpanel-ui.php:141
+msgid "优化建议：不超过 140 个字"
+msgstr "Lời khuyên: không quá 140 ký tự"
+
+#: mpanel/mpanel-ui.php:142
+msgid "给搜索引擎使用的网站描述内容"
+msgstr "Sử dụng một công cụ tìm kiếm để mô tả trang web"
+
+#: mpanel/mpanel-ui.php:150
+msgid "幻灯设置"
+msgstr "Cài đặt slide"
+
+#: mpanel/mpanel-ui.php:153
+msgid "幻灯片"
+msgstr "Slide"
+
+#: mpanel/mpanel-ui.php:157
+msgid "开启首页幻灯片"
+msgstr "Mở slideshow trang chủ"
+
+#: mpanel/mpanel-ui.php:167
+msgid "首页幻灯片"
+msgstr "Trang chủ Slideshow"
+
+#: mpanel/mpanel-ui.php:171
+msgid "幻灯片数量"
+msgstr "Số lượng các slide"
+
+#: mpanel/mpanel-ui.php:176 mpanel/mpanel-ui.php:187
+msgid "篇"
+msgstr "Bài viết"
+
+#: mpanel/mpanel-ui.php:182
+msgid "每页显示数量"
+msgstr "Số lượng mỗi trang"
+
+#: mpanel/mpanel-ui.php:188
+msgid "每页显示的幻灯片数量"
+msgstr "Số lượng các slide trên một trang"
+
+#: mpanel/mpanel-ui.php:194
+msgid "显示分页按钮"
+msgstr "Nút hiển thị phân trang"
+
+#: mpanel/mpanel-ui.php:197
+msgid "显示底部的分页切换按钮"
+msgstr "Nút bật/tắt hiển thị ở dưới cùng của trang"
+
+#: mpanel/mpanel-ui.php:203
+msgid "循环播放"
+msgstr "Phát lại vòng lặp"
+
+#: mpanel/mpanel-ui.php:206
+msgid "最后一张幻灯片后自动连接第一张"
+msgstr "Kết nối tự động sau khi cuối slide đầu tiên"
+
+#: mpanel/mpanel-ui.php:212
+msgid "自动播放"
+msgstr "Autoplay"
+
+#: mpanel/mpanel-ui.php:215
+msgid "自动切换幻灯片"
+msgstr "Slide tự động play"
+
+#: mpanel/mpanel-ui.php:222
+msgid "自动播放速度"
+msgstr "Tốc độ phát lại tự động"
+
+#: mpanel/mpanel-ui.php:227
+msgid "秒"
+msgstr "giây."
+
+#: mpanel/mpanel-ui.php:234
+msgid "切换速度"
+msgstr "Tốc độ chuyển đổi"
+
+#: mpanel/mpanel-ui.php:239
+msgid "毫秒"
+msgstr "millisecond"
+
+#: mpanel/mpanel-ui.php:246
+msgid "幻灯片高度"
+msgstr "chiều cao slide"
+
+#: mpanel/mpanel-ui.php:257
+msgid "内容查询"
+msgstr "Nội dung truy vấn"
+
+#: mpanel/mpanel-ui.php:261
+msgid "最新文章"
+msgstr "Bài viết mới nhất"
+
+#: mpanel/mpanel-ui.php:262
+msgid "置顶文章"
+msgstr "Top bài viết"
+
+#: mpanel/mpanel-ui.php:263
+msgid "随机文章"
+msgstr "Bài viết ngẫu nhiên"
+
+#: mpanel/mpanel-ui.php:264
+msgid "热门文章（评论）"
+msgstr "Phổ biến bài viết (xem xét)"
+
+#: mpanel/mpanel-ui.php:265
+msgid "热门文章（浏览）"
+msgstr "Bài viết phổ biến (Xem)"
+
+#: mpanel/mpanel-ui.php:266
+msgid "分类文章"
+msgstr "Phân loại các bài viết"
+
+#: mpanel/mpanel-ui.php:268
+msgid "选择幻灯片内容"
+msgstr "Chọn nội dung slide"
+
+#: mpanel/mpanel-ui.php:279
+msgid "选择分类"
+msgstr "Chọn một thể loại"
+
+#: mpanel/mpanel-ui.php:293
+msgid "优化配置"
+msgstr "Cấu hình tối ưu"
+
+#: mpanel/mpanel-ui.php:296 includes/widgets/widget-posts-list.php:14
+#: includes/widgets/widget-posts-list.php:18
+msgid "文章"
+msgstr "Bài viết"
+
+#: mpanel/mpanel-ui.php:300
+msgid "阻止站内文章互相 Pingback"
+msgstr "Bài viết trong mỗi trạm dừng Pingback"
+
+#: mpanel/mpanel-ui.php:308
+msgid "首行缩进两格"
+msgstr "Dòng đầu tiên thụt vào hai tab"
+
+#: mpanel/mpanel-ui.php:311
+msgid "文章每个段落开头自动空两格"
+msgstr "Mỗi đoạn mở đầu bài báo tự động hai thùng rỗng."
+
+#: mpanel/mpanel-ui.php:316
+msgid "显示相关文章"
+msgstr "Hiển thị bài viết liên quan"
+
+#: mpanel/mpanel-ui.php:325
+msgid "相关文章数量"
+msgstr "Số lượng các bài viết liên quan"
+
+#: mpanel/mpanel-ui.php:333
+msgid "文章编辑器实时预览"
+msgstr "Trình soạn thảo văn bản xem thử thời gian thực"
+
+#: mpanel/mpanel-ui.php:336
+msgid "在后台使用文章编辑器撰写文章的时候，可以实时预览到与前台主题一样的显示效果，方便进行排版"
+msgstr ""
+"Trong hậu trường sử dụng trình soạn thảo bài báo bài báo viết khi đến với lễ "
+"tân, có thể xem trong thời gian thực hiện chủ đề giống như hiệu ứng, dễ thực "
+"hiện sắp chữ"
+
+#: mpanel/mpanel-ui.php:346
+msgid "移动端文章页折叠"
+msgstr "Di chuyển-phụ bài trang gấp"
+
+#: mpanel/mpanel-ui.php:349
+msgid "在移动端查看文章页时，把内容、评论和分类折叠到三个标签栏里，通过点击进行切换，类似于 App Store。"
+msgstr ""
+"Khi xem trang bài viết về phía điện thoại di động, gấp, bình luận và phân "
+"loại nội dung trong ba tab bằng cách nhấp vào chuyển đổi, tương tự như App "
+"Store."
+
+#: mpanel/mpanel-ui.php:356
+msgid "头部元信息"
+msgstr "Thông tin meta đầu"
+
+#: mpanel/mpanel-ui.php:360
+msgid "移除头部无用信息"
+msgstr "Loại bỏ tiêu đề thông tin vô ích"
+
+#: mpanel/mpanel-ui.php:364
+msgid "WordPress 在头部输出了一些无用的信息，开启后会把他们移除"
+msgstr "WordPress đầu ra một số thông tin vô ích đó, khi bật sẽ loại bỏ chúng"
+
+#: mpanel/mpanel-ui.php:369
+msgid "关闭离线编辑器接口"
+msgstr "Đóng giao diện chỉnh sửa ẩn"
+
+#: mpanel/mpanel-ui.php:372
+msgid "如果你只使用 WordPress 的后台编辑器开启此选项会更安全"
+msgstr ""
+"Nếu bạn chỉ sử dụng trình biên tập backend WordPress để mở tùy chọn này sẽ "
+"được an toàn hơn"
+
+#: mpanel/mpanel-ui.php:378
+msgid "阅读"
+msgstr "Đọc"
+
+#: mpanel/mpanel-ui.php:382
+msgid "文章链接全部在新窗口打开"
+msgstr "Bài viết liên kết tất cả mở trong cửa sổ mới"
+
+#: mpanel/mpanel-ui.php:389
+msgid "文章外链添加 nofollow 并在新窗口打开"
+msgstr "Điều bên ngoài chuỗi để thêm nofollow và mở ra ở cửa sổ mới"
+
+#: mpanel/mpanel-ui.php:402
+msgid "搜索结果只包括文章"
+msgstr "Kết quả tìm kiếm chỉ bao gồm các bài viết"
+
+#: mpanel/mpanel-ui.php:405
+msgid "排除页面和其它自定义文章类型"
+msgstr "Loại trừ trang web và các loại tiểu luận tuỳ chỉnh"
+
+#: includes/posts-list.php:222
+msgid "标签"
+msgstr "Từ khóa"
+
+#: includes/related-posts.php:25
+msgid "相关文章"
+msgstr "Bài viết liên quan"
+
+#: includes/related-posts.php:28
+msgid "换一批新的相关文章"
+msgstr "Đối với một số bài viết liên quan mới"
+
+#: includes/shortcodes.php:16
+msgid "没有文章。"
+msgstr "Không có bài viết."
+
+#: includes/shortcodes.php:65
+msgid "没有找到友情链接。"
+msgstr "Không có liên kết được tìm thấy."
+
+#: mpanel/mpanel-ui.php:8 mpanel/mpanel-ui.php:851
+msgid "头部广告"
+msgstr "Đầu của quảng cáo"
+
+#: mpanel/mpanel-ui.php:9
+msgid "底部广告"
+msgstr "Quảng cáo dưới cùng"
+
+#: mpanel/mpanel-ui.php:10
+msgid "文章底部广告"
+msgstr ""
+"Dưới cùng của các bài viết quảng cáo\n"
+
+#: mpanel/mpanel-ui.php:14
+msgid "基本设置"
+msgstr ""
+"Cài đặt cơ bản\n"
+
+#: includes/comment.php:53
+msgid "插入表情"
+msgstr "Chèn biểu cảm"
+
+#: includes/mobile.php:11
+msgid "返回"
+msgstr "Quay trở lại"
+
+#: includes/mobile.php:44 includes/mobile.php:168
+msgid "分类"
+msgstr "Phân loại"
+
+#: includes/mobile.php:56 includes/mobile.php:171 includes/mobile.php:302
+msgid "关于"
+msgstr "About"
+
+#: includes/mobile.php:70
+msgid "内容"
+msgstr "Nội dung"
+
+#: includes/mobile.php:72
+msgid "相关"
+msgstr "Liên quan"
+
+#: includes/mobile.php:100
+msgid "热门搜索"
+msgstr "Tìm kiếm phổ biến"
+
+#: includes/mobile.php:187
+msgid "更多..."
+msgstr "Nhiều hơn..."
+
+#: includes/mobile.php:190
+msgid "加载中..."
+msgstr "Đang tải..."
+
+#: includes/mobile.php:193
+msgid "全部加载完成"
+msgstr "Tải tất cả"
+
+#: includes/mobile.php:210
+msgid "上一页"
+msgstr "Trang trước"
+
+#: includes/mobile.php:220
+msgid "下一页"
+msgstr "Trang tiếp theo"
+
+#: includes/posts-list.php:32
+msgid "这里什么都没有"
+msgstr "Không có gì ở đây"
+
+#: includes/posts-list.php:36
+msgid "没有搜索到任何结果"
+msgstr "Không có kết quả tìm kiếm"
+
+#: includes/posts-list.php:40
+msgid "这里什么都没有，你也许可以使用搜索功能找到你需要的内容："
+msgstr ""
+"Không có gì ở đây, bạn có thể sử dụng tính năng tìm kiếm để tìm thấy những "
+"gì bạn muốn:"
+
+#: includes/posts-list.php:185
+#, php-format
+msgid "《%s》的发布日期"
+msgstr ""
+"Ngày phát hành 《%s》\n"
+
+#: includes/posts-list.php:195
+msgid "发布于Y年m月d日"
+msgstr "Đăng ngày d tháng m năm Y"
+
+#: includes/posts-list.php:207
+#, php-format
+msgid "浏览了%s次"
+msgstr "Lượt xem %s"
+
+#: includes/posts-list.php:217
+msgid "无评论"
+msgstr "No Comments"
+
+#: includes/posts-list.php:217
+msgid "已关闭评论"
+msgstr "Comments Closed"
+
+#: functions/class-mpanel-uninstall.php:50
+msgid "目标主题和当前主题有重合，请重写选择。"
+msgstr "Nhắm mục tiêu chủ đề hiện tại và các chủ đề chồng chéo, viết lại chọn."
+
+#: functions/class-mpanel-uninstall.php:64
+msgid "卸载主题"
+msgstr "Gỡ bỏ cài đặt chủ đề"
+
+#: functions/class-mpanel-uninstall.php:67
+msgid ""
+"主题在运行过程中会在数据库中保存一些数据，比如主题设置、数据库版本号和授权许可证之类的信息，如果直接删除主题文件会导致这些数据永远占用数据库空间。"
+msgstr ""
+"Các chủ đề trong quá trình chạy sẽ tiết kiệm một số dữ liệu trong cơ sở dữ "
+"liệu, chẳng hạn như chủ đề, cơ sở dữ liệu thông tin, số phiên bản và ủy "
+"quyền cho các giấy phép, nếu loại bỏ chủ đề tập tin trực tiếp sẽ gây ra dữ "
+"liệu sẽ không bao giờ tiêu thụ cơ sở dữ liệu space."
+
+#: functions/class-mpanel-uninstall.php:70
+msgid ""
+"你可以选择使用下边的按钮来彻底卸载主题，程序会自动清除主题在数据库中保存的所有数据，然后帮助你切换到别的主题，你可以继续保留主题或删除主题文件。"
+msgstr ""
+"Bạn có thể chọn để sử dụng các nút bên dưới để hoàn toàn gỡ bỏ cài đặt chủ "
+"đề, chương trình sẽ tự động xóa các chủ đề sẽ lưu tất cả dữ liệu trong cơ sở "
+"dữ liệu, và sau đó giúp bạn chuyển sang một chủ đề khác nhau, bạn có thể "
+"tiếp tục chủ đề, hoặc loại bỏ các tập tin chủ đề."
+
+#: functions/class-mpanel-uninstall.php:73
+msgid "要注意的是，只要主题被运行一次，所有的数据就会重新生成，所以请避免这种情况或重新卸载。"
+msgstr ""
+"Cần lưu ý là, miễn là các chủ đề chạy, tất cả các dữ liệu sẽ được xây dựng "
+"lại, vì vậy xin vui lòng tránh điều này hoặc gỡ bỏ cài đặt nó một lần nữa."
+
+#: functions/class-mpanel-uninstall.php:76
+#: functions/class-mpanel-uninstall.php:94 functions/class-mpanel.php:192
+#: functions/class-mpanel.php:242
+msgid "卸载"
+msgstr "Gỡ bỏ cài đặt"
+
+#: functions/class-mpanel-uninstall.php:91
+#, php-format
+msgid "删除所有主题数据并切换到 %s 主题。"
+msgstr ""
+"Xóa tất cả dữ liệu và chuyển sang chủ đề chủ đề %s.\n"
+
+#: functions/class-mpanel-uninstall.php:102
+msgid "数据不可恢复，真的要卸载吗？"
+msgstr "Không thể khôi phục dữ liệu, bạn thực sự có muốn gỡ bỏ cài đặt?"
+
+#: functions/class-mpanel-uninstall.php:107
+msgid "没有可以切换到的主题，所以无法卸载。"
+msgstr ""
+"Bạn có thể không chuyển sang chủ đề, do đó, nó không thể được gỡ bỏ cài đặt."
+
+#: functions/class-mpanel.php:153 functions/class-mpanel.php:164
+#, php-format
+msgid "%s 设置"
+msgstr "Thiết đặt %s"
+
+#: functions/class-mpanel.php:165 functions/class-mpanel.php:224
+msgid "设置"
+msgstr "Thiết lập"
+
+#: functions/class-mpanel.php:173
+#, php-format
+msgid "%s 使用帮助"
+msgstr "Trợ giúp của %s"
+
+#: functions/class-mpanel.php:174 functions/class-mpanel.php:229
+msgid "帮助"
+msgstr "Trợ giúp"
+
+#: functions/class-mpanel.php:182
+#, php-format
+msgid "%s 更新日志"
+msgstr "Cập Nhật %s đăng nhập"
+
+#: functions/class-mpanel.php:183 functions/class-mpanel.php:236
+msgid "更新"
+msgstr "Cập Nhật"
+
+#: functions/class-mpanel.php:191
+#, php-format
+msgid "卸载 %s 主题"
+msgstr "Dỡ cài đặt %s chủ đề"
+
+#: functions/class-mpanel.php:200
+#, php-format
+msgid "捐助 %s 作者"
+msgstr "Tác giả tài trợ %s"
+
+#: functions/class-mpanel.php:201 functions/class-mpanel.php:251
+msgid "捐助"
+msgstr "Nhà tài trợ"
+
+#: functions/class-mpanel.php:308
+msgid "列表不能重复"
+msgstr "Danh sách không thể được lặp đi lặp lại"
+
+#: functions/class-mpanel.php:380 functions/class-mpanel.php:382
+msgid "保存设置"
+msgstr "Lưu cài đặt"
+
+#: functions/class-mpanel.php:385 functions/class-mpanel.php:385
+msgid "恢复初始设置"
+msgstr "Khôi phục cài đặt gốc"
+
+#: functions/class-mpanel.php:385
+msgid "所有目前的设置都会被恢复到初始状态，无法恢复。你确定？"
+msgstr ""
+"Tất cả các cài đặt hiện tại sẽ được khôi phục lại tình trạng ban đầu của nó, "
+"không thể được phục hồi. Bạn có chắc không?"
+
+#: functions/class-mpanel.php:404
+msgid "使用帮助"
+msgstr "Sử dụng sự trợ giúp"
+
+#: functions/class-mpanel.php:451
+#, php-format
+msgid "欢迎使用 %s 主题，你可以%s联系作者，也可以%s加入我们的 QQ 群；主题支持在线升级，不建议直接修改主题的代码。"
+msgstr ""
+"Chào mừng đến với tác giả chủ đề %s. bạn có thể liên hệ với %s hoặc %s để "
+"tham gia với chủ đề QQ nhóm hỗ trợ nâng cấp trực tuyến, trực tiếp sửa đổi "
+"chủ đề của mã là không nên."
+
+#: functions/class-mpanel.php:453 functions/class-mpanel.php:454
+msgid "点击此处"
+msgstr "Click vào đây"
+
+#: functions/class-mpanel.php:530
+#, php-format
+msgid "欢迎使用 %s 主题！"
+msgstr "Chào mừng đến chủ đề của %s!"
+
+#: functions/class-mpanel.php:531
+msgid "可以在这里设置这个主题，强烈建议您根据喜好自定义主题。"
+msgstr ""
+"Tại đây bạn có thể thiết lập các chủ đề, chúng tôi khuyên bạn nên bạn thích "
+"một chủ đề tùy chỉnh."
+
+#: functions/class-mpanel.php:577
+msgid "更新日志"
+msgstr "Cập nhật Log"
+
+#: functions/class-theme-update.php:108
+#, php-format
+msgid "%1$s 主题 %2$s 版本可用！"
+msgstr "%1$s theme %2$s có sẵn!"
+
+#: functions/class-theme-update.php:114
+#, php-format
+msgid "<a href=\"%1$s\" target=\"_blank\">%2$s 主题 %3$s 版本</a>可用！"
+msgstr ""
+"<a href=\"%1$s\" target=\"_blank\">%2$s Chủ đề %3$s Phiên bản</a> Có sẵn!"
+
+#: functions/class-theme-update.php:122
+#, php-format
+msgid "<a href=\"%1$s\">现在去升级</a>。"
+msgstr "Bây giờ hãy để nâng cấp"
+
+#: functions/comment.php:18
+msgid "检测为非法提交的评论"
+msgstr "Ý kiến gửi bởi phát hiện các bất hợp pháp."
+
+#: functions/comment.php:30
+msgid "抱歉，该文章无法评论"
+msgstr "Rất tiếc, chúng không thể bình luận về bài viết này"
+
+#: functions/comment.php:39
+msgid "抱歉，输入密码之后才能评论"
+msgstr "Xin lỗi, nhưng sau khi nhập mật khẩu để bình luận."
+
+#: functions/comment.php:79
+msgid "您必须登录才能发表评论"
+msgstr "Bạn phải đăng nhập để gửi bài bình luận"
+
+#: functions/comment.php:82
+msgid "请填写正确的昵称和邮箱"
+msgstr "Xin vui lòng điền chính xác các biệt hiệu và email"
+
+#: functions/comment.php:83
+msgid "请使用一个有效的邮箱"
+msgstr "Xin vui lòng sử dụng email hợp lệ"
+
+#: functions/comment.php:86
+msgid "评论不能为空"
+msgstr "Nhận xét không thể để trống"
+
+#: functions/comment.php:92
+msgid "无法保存评论，请稍后再试"
+msgstr "Bình luận có thể không được lưu, xin vui lòng thử lại sau"
+
+#: functions/comment.php:130
+msgid "您评论的速度太快了，休息一下吧"
+msgstr "Bình luận của bạn quá nhanh, chậm lại đê..."
+
+#: functions/comment.php:137
+msgid "您好像已经发表过这篇评论了"
+msgstr "Bạn dường như đã xuất bản chú thích này"
+
+#: functions/comment.php:171
+msgid "请在评论里包含中文"
+msgstr "Làm ơn, chứa trong bình luận của người Trung Quốc."
+
+#: functions/comment.php:184
+msgid "请使用有 Gravatar 头像的邮箱评论"
+msgstr "Vui lòng sử dụng e-mail bình luận có Gravatar Avatar"
+
+#: functions/comment.php:195
+#, php-format
+msgid "你在%s的评论有回复啦！"
+msgstr "Bạn đã từng %s bình luận trả lời!"
+
+#: functions/comment.php:195 functions/comment.php:231
+#, php-format
+msgid "《%s》"
+msgstr "《%s》"
+
+#: functions/comment.php:230
+#, php-format
+msgid "您在%s的评论有回复啦！"
+msgstr "Bạn có người bạn trả lời bình luận từ %s!"
+
+#: functions/comment.php:231
+#, php-format
+msgid "%s，您曾在%s中发表评论："
+msgstr "Bạn đã nhận xét trong %s: %s"
+
+#: functions/comment.php:233
+#, php-format
+msgid "“%s”给您的回复如下："
+msgstr "\"%s\" được trả lời bạn như sau:"
+
+#: functions/comment.php:235
+#, php-format
+msgctxt "第一个“%s”为“点击查看完整的回复内容”的链接"
+msgid "您可以%s，欢迎再次光临%s！"
+msgstr "Bạn có thể %s, chào mừng trở lại %s!"
+
+#: functions/comment.php:235 functions/comment.php:235
+msgid "点击查看完整的回复内容"
+msgstr "Click vào đây để xem đầy đủ trả lời"
+
+#: functions/comment.php:236
+#, php-format
+msgid "%s - 邮件自动生成，请勿直接回复！"
+msgstr "%s - Tin nhắn được tạo ra tự động, xin vui lòng không trả lời!"
+
+#: functions/nav-menu.php:9
+msgid "导航菜单"
+msgstr "Menu điều hướng"
+
+#: functions/nav-menu.php:10 mpanel/mpanel-ui.php:555
+msgid "页脚菜单"
+msgstr "Menu Footer"
+
+#: functions/nav-menu.php:47
+msgid "⊕添加菜单"
+msgstr ""
+"⊕Thêm trình đơn\n"
+
+#: functions/page-navi.php:15
+msgid "&laquo; 首页"
+msgstr "&laquo;Trang chủ"
+
+#: functions/page-navi.php:16
+msgid "尾页 &raquo;"
+msgstr "Cuối cùng  &raquo;"
+
+#: functions/page-navi.php:17
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: functions/theme-functions.php:17
+msgid "请务必在 `after_setup_theme` 动作钩子运行之后再调用此函数。"
+msgstr ""
+"Hãy chắc chắn `after_setup_theme` hành động móc và sau đó gọi hàm này sau "
+"phẫu thuật.\n"
+
+#: functions/theme-functions.php:103
+msgid "警告："
+msgstr "Cảnh báo:"
+
+#: functions/theme-functions.php:105
+#, php-format
+msgid ""
+"%s 主题能完美运行至少需要 WordPress %s 版本，您当前的 WordPress "
+"版本（%s）可能会使主题部分功能出现问题；为了安全性和兼容性考虑，请尽快升级 WordPress 到最新版本，或者至少升级到能使主题完美运行的最低版本。"
+msgstr ""
+"%s yêu cầu at ít nhất WordPress chủ đề hoàn toàn chạy %s Phiên bản phiên bản "
+"WordPress hiện tại của bạn (%s) có một vấn đề có thể gây ra một phần chuyên "
+"đề; an ninh và khả năng tương thích, xin vui lòng nâng cấp lên WordPress "
+"phiên bản mới nhất càng sớm càng tốt, Hoặc nâng cấp để ít làm cho chủ đề tối "
+"thiểu Phiên bản chạy hoàn hảo."
+
+#: functions/theme-functions.php:219
+msgid "正在提交..."
+msgstr "Đang được đệ trình..."
+
+#: functions/theme-functions.php:288 includes/archive-header.php:24
+#: includes/mobile.php:152
+msgid "Y年m月d日"
+msgstr "d/m/Y"
+
+#: functions/theme-functions.php:290 includes/archive-header.php:25
+#: includes/mobile.php:154
+msgid "Y年m月"
+msgstr "m/Y"
+
+#: functions/theme-functions.php:292 includes/archive-header.php:26
+#: includes/mobile.php:156
+msgid "Y年"
+msgstr "Y"
+
+#: functions/theme-functions.php:295 includes/archive-header.php:28
+#, php-format
+msgid "%s发布的文章"
+msgstr "Bài viết được suất bản vào %s"
+
+#: functions/theme-functions.php:443
+msgid "Gravatar 头像"
+msgstr "Avatar Gravatar "
+
+#: functions/widgets.php:9 mpanel/mpanel-ui.php:700
+msgid "默认侧边栏"
+msgstr "Sidebar mặc định"
+
+#: functions/widgets.php:11
+msgid "没有单独指定的页面使用此侧边栏"
+msgstr "Không có trang nào đó riêng biệt sử dụng sidebar này"
+
+#: includes/archive-header.php:53
+msgid "无描述"
+msgstr "Không có mô tả"
+
+#: includes/archive-header.php:54
+msgid "此存档的 Feed 源，可以使用 RSS 阅读器订阅这些内容"
+msgstr ""
+"Lưu trữ các nguồn Feed cấp dữ liệu, bạn có thể sử dụng trình đọc RSS để đăng "
+"ký vào các nội dung"
+
+#: includes/comment.php:22
+msgid "回复"
+msgstr "Trả lời"
+
+#: includes/comment.php:29
+msgid "评论正在审核中..."
+msgstr "Bình luận đang xem xét..."
+
+#: 404.php:12
+msgid "没有找到当前页面"
+msgstr "Trang hiện tại không được tìm thấy"
+
+#: comments.php:5 includes/mobile.php:71
+#: includes/widgets/widget-recent-comments.php:14
+#: includes/widgets/widget-recent-comments.php:18
+msgid "评论"
+msgstr "Bình luận"
+
+#: comments.php:8
+#, php-format
+msgid "%s条评论"
+msgstr "%s bình luận"
+
+#: footer.php:19 mpanel/mpanel-ui.php:593
+msgid "返回顶部"
+msgstr "Quay lại trang đầu"
+
+#: header.php:27
+msgid "后退"
+msgstr "Quay trở lại"
+
+#: header.php:30
+msgid "前进"
+msgstr "Tới trước"
+
+#: header.php:33 includes/related-posts.php:29
+msgid "刷新"
+msgstr "Làm mới"
+
+#: page.php:18 single.php:18 includes/comment.php:17
+msgid "编辑"
+msgstr "Chỉnh sửa"
+
+#: page.php:24 single.php:28
+msgid "页码："
+msgstr "Số trang"
+
+#: search.php:9 searchform.php:3 searchform.php:3
+#: functions/theme-functions.php:165 includes/mobile.php:50
+#: mpanel/mpanel-ui.php:398
+msgid "搜索"
+msgstr "Tìm kiếm"
+
+#: search.php:15
+#, php-format
+msgid "关键词“%s”共有 %s 个搜索结果"
+msgstr "Từ khóa \"%s\" có tổng cộng %s kết quả tìm kiếm."
+
+#: search.php:15
+msgid "无关键词的搜索"
+msgstr "Không tìm ra từ khóa cần tìm."
+
+#: searchform.php:2
+msgid "输入关键词搜索..."
+msgstr "Nhập từ khóa cần tìm..."
+
+#: sidebar.php:9
+msgid "该边栏还没有设置任何小工具"
+msgstr "Các bên cũng không đặt bất kỳ tiện ích"
+
+#: functions/class-anti-spam.php:141
+msgid "检测为机器人评论，请在网站评论表单处提交您的评论"
+msgstr ""
+"Phát hiện cho robot đánh giá trên trang web kiến thức để gửi ý kiến của bạn"
+
+#: functions/class-breadcrumbs.php:154 functions/deprecated.php:119
+#: functions/nav-menu.php:42 includes/mobile.php:38 mpanel/mpanel-ui.php:704
+msgid "首页"
+msgstr "Trang chủ"
+
+#: functions/class-breadcrumbs.php:165
+msgid "未找到页面"
+msgstr "Trang không tìm thấy"
+
+#: functions/class-breadcrumbs.php:175
+msgid "搜索结果"
+msgstr "Kết quả tìm kiếm"
+
+#: functions/class-breadcrumbs.php:306
+#, php-format
+msgid "第 %s 页"
+msgstr "Tiểu mục %s trang"
+
+#: functions/class-breadcrumbs.php:340
+msgid "正文"
+msgstr "Bài Viết"
+
+#: functions/class-mpanel-donate.php:39
+msgid "捐助作者"
+msgstr "Tác giả đóng góp"
+
+#: functions/class-mpanel-donate.php:53
+msgid "自愿捐助，十分感谢！"
+msgstr "Đóng góp tự nguyện, cảm ơn bạn!"
+
+#: functions/class-mpanel-donate.php:106
+#, php-format
+msgid "账号：<code>%s</code>"
+msgstr ""
+"Số tài khoản: <code>%s</code>\n"
+
+#: functions/class-mpanel-donate.php:111
+msgid "使用手机客户端扫描二维码直达捐助页面："
+msgstr ""
+"Khách hàng điện thoại di động quét mã QR trực tiếp đến trang tài trợ bằng "
+"cách sử dụng:"
+
+#: functions/class-mpanel-donate.php:178
+msgid "支付宝"
+msgstr "Alipay"
+
+#: functions/class-mpanel-donate.php:179
+msgid "QQ 钱包"
+msgstr "Ví tiền QQ"
+
+#: functions/class-mpanel-panel.php:163
+msgid "上传"
+msgstr "Tải lên"
+
+#: functions/class-mpanel-panel.php:253
+msgid "添加"
+msgstr "Thêm"
+
+#: functions/class-mpanel-uninstall.php:35
+msgid "您没有卸载主题的权限。"
+msgstr "Bạn không có quyền để gỡ bỏ cài đặt chủ đề."
+
+#: functions/class-mpanel-uninstall.php:44
+msgid "切换到的目标主题无效，请重新选择。"
+msgstr "Chuyển sang chủ đề đích không hợp lệ, vui lòng chọn một lần nữa."
